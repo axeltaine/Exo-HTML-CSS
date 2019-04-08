@@ -322,7 +322,7 @@ footer img {
   h1 {
     font-size: 3rem;
   }
-  .main a[role=button] {
+  #home a[role=button] {
     font-size: 1.75rem;
   }
   .box {
